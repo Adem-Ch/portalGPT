@@ -1,0 +1,27 @@
+{
+  "name": "portal",
+  "version": "1.0.0",
+  "description": "node.js project created whit ChatGPT support",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adem-Ch/portal.git"
+  },
+  "keywords": [
+    "portal"
+  ],
+  "author": "adem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adem-Ch/portal/issues"
+  },
+  "homepage": "https://github.com/Adem-Ch/portal#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.1",
+    "sequelize": "^6.32.1"
+  }
+}
